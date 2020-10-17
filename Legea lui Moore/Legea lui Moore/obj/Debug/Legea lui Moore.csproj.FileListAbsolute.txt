@@ -1,0 +1,7 @@
+C:\Users\Adonys\source\repos\Legea-lui-Moore-\Legea lui Moore\Legea lui Moore\bin\Debug\Legea lui Moore.exe.config
+C:\Users\Adonys\source\repos\Legea-lui-Moore-\Legea lui Moore\Legea lui Moore\bin\Debug\Legea lui Moore.exe
+C:\Users\Adonys\source\repos\Legea-lui-Moore-\Legea lui Moore\Legea lui Moore\bin\Debug\Legea lui Moore.pdb
+C:\Users\Adonys\source\repos\Legea-lui-Moore-\Legea lui Moore\Legea lui Moore\obj\Debug\Legea lui Moore.csprojAssemblyReference.cache
+C:\Users\Adonys\source\repos\Legea-lui-Moore-\Legea lui Moore\Legea lui Moore\obj\Debug\Legea lui Moore.csproj.CoreCompileInputs.cache
+C:\Users\Adonys\source\repos\Legea-lui-Moore-\Legea lui Moore\Legea lui Moore\obj\Debug\Legea lui Moore.exe
+C:\Users\Adonys\source\repos\Legea-lui-Moore-\Legea lui Moore\Legea lui Moore\obj\Debug\Legea lui Moore.pdb

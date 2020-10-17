@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Legea lui Moore", "Legea lui Moore\Legea lui Moore.csproj", "{4FEF805C-6956-4AB9-AA86-2510A7B7BDAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FEF805C-6956-4AB9-AA86-2510A7B7BDAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FEF805C-6956-4AB9-AA86-2510A7B7BDAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FEF805C-6956-4AB9-AA86-2510A7B7BDAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FEF805C-6956-4AB9-AA86-2510A7B7BDAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {154C3865-9FDA-4F0E-B472-C42E28136B07}
+	EndGlobalSection
+EndGlobal
